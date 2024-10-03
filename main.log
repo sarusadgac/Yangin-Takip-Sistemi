@@ -21,3 +21,14 @@
 2024-10-03 10:36:54,476:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241003_103652.db' olarak kaydedildi.
 2024-10-03 10:36:55,611:INFO:Uydu bilgileri '/home/runner/work/Yangin-Takip-Sistemi/Yangin-Takip-Sistemi/available_satellites.txt' dosyasına kaydedildi.
 2024-10-03 10:36:55,612:INFO:Ülke kodları bilgileri '/home/runner/work/Yangin-Takip-Sistemi/Yangin-Takip-Sistemi/country_codes.txt' dosyasına kaydedildi.
+2024-10-03 10:42:26,991:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA20_NRT_20241003_104226.csv' olarak kaydedildi.
+2024-10-03 10:42:26,991:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA20_NRT_20241003_104226.json' olarak kaydedildi.
+2024-10-03 10:42:26,999:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA20_NRT_20241003_104226.db' olarak kaydedildi.
+2024-10-03 10:42:27,143:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA21_NRT_20241003_104226.csv' olarak kaydedildi.
+2024-10-03 10:42:27,144:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA21_NRT_20241003_104226.json' olarak kaydedildi.
+2024-10-03 10:42:27,152:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA21_NRT_20241003_104226.db' olarak kaydedildi.
+2024-10-03 10:42:27,330:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_SNPP_NRT_20241003_104226.csv' olarak kaydedildi.
+2024-10-03 10:42:27,330:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_SNPP_NRT_20241003_104226.json' olarak kaydedildi.
+2024-10-03 10:42:27,336:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241003_104226.db' olarak kaydedildi.
+2024-10-03 10:42:29,484:INFO:Uydu bilgileri '/home/runner/work/Yangin-Takip-Sistemi/Yangin-Takip-Sistemi/available_satellites.txt' dosyasına kaydedildi.
+2024-10-03 10:42:29,484:INFO:Ülke kodları bilgileri '/home/runner/work/Yangin-Takip-Sistemi/Yangin-Takip-Sistemi/country_codes.txt' dosyasına kaydedildi.
