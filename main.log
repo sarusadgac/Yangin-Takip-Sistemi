@@ -582,3 +582,14 @@
 2024-10-03 23:59:57,260:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241003_235956.db' olarak kaydedildi.
 2024-10-03 23:59:57,595:INFO:Veriler './available_satellites.txt' dosyasına kaydedildi.
 2024-10-03 23:59:57,595:INFO:Veriler './country_codes.txt' dosyasına kaydedildi.
+2024-10-04 01:49:51,053:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA20_NRT_20241004_014950.csv' olarak kaydedildi.
+2024-10-04 01:49:51,054:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA20_NRT_20241004_014950.json' olarak kaydedildi.
+2024-10-04 01:49:51,061:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA20_NRT_20241004_014950.db' olarak kaydedildi.
+2024-10-04 01:49:51,420:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA21_NRT_20241004_014950.csv' olarak kaydedildi.
+2024-10-04 01:49:51,420:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA21_NRT_20241004_014950.json' olarak kaydedildi.
+2024-10-04 01:49:51,425:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA21_NRT_20241004_014950.db' olarak kaydedildi.
+2024-10-04 01:49:51,776:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_SNPP_NRT_20241004_014950.csv' olarak kaydedildi.
+2024-10-04 01:49:51,776:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_SNPP_NRT_20241004_014950.json' olarak kaydedildi.
+2024-10-04 01:49:51,781:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241004_014950.db' olarak kaydedildi.
+2024-10-04 01:49:52,684:INFO:Veriler './available_satellites.txt' dosyasına kaydedildi.
+2024-10-04 01:49:52,684:INFO:Veriler './country_codes.txt' dosyasına kaydedildi.
