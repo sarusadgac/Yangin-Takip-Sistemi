@@ -1678,3 +1678,17 @@
 2024-10-05 03:46:33,637:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241005_034632.db' olarak kaydedildi.
 2024-10-05 03:46:34,093:INFO:'./available_satellites.txt' dosyası zaten güncel, kaydetmeye gerek yok.
 2024-10-05 03:46:34,560:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
+2024-10-05 03:57:18,320:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 03:57:18,323:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA20_NRT_20241005_035717.csv' olarak kaydedildi.
+2024-10-05 03:57:18,324:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA20_NRT_20241005_035717.json' olarak kaydedildi.
+2024-10-05 03:57:18,335:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA20_NRT_20241005_035717.db' olarak kaydedildi.
+2024-10-05 03:57:18,716:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 03:57:18,719:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA21_NRT_20241005_035717.csv' olarak kaydedildi.
+2024-10-05 03:57:18,719:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA21_NRT_20241005_035717.json' olarak kaydedildi.
+2024-10-05 03:57:18,730:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA21_NRT_20241005_035717.db' olarak kaydedildi.
+2024-10-05 03:57:19,151:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 03:57:19,154:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_SNPP_NRT_20241005_035717.csv' olarak kaydedildi.
+2024-10-05 03:57:19,154:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_SNPP_NRT_20241005_035717.json' olarak kaydedildi.
+2024-10-05 03:57:19,159:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241005_035717.db' olarak kaydedildi.
+2024-10-05 03:57:19,594:INFO:Veriler './available_satellites.txt' dosyasına kaydedildi.
+2024-10-05 03:57:20,055:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
