@@ -2630,3 +2630,17 @@
 2024-10-05 22:39:26,572:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241005_223925.db' olarak kaydedildi.
 2024-10-05 22:39:27,113:INFO:'./available_satellites.txt' dosyası zaten güncel, kaydetmeye gerek yok.
 2024-10-05 22:39:27,612:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
+2024-10-05 22:50:19,305:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 22:50:19,310:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA20_NRT_20241005_225018.csv' olarak kaydedildi.
+2024-10-05 22:50:19,311:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA20_NRT_20241005_225018.json' olarak kaydedildi.
+2024-10-05 22:50:19,321:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA20_NRT_20241005_225018.db' olarak kaydedildi.
+2024-10-05 22:50:19,573:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 22:50:19,577:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA21_NRT_20241005_225018.csv' olarak kaydedildi.
+2024-10-05 22:50:19,578:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA21_NRT_20241005_225018.json' olarak kaydedildi.
+2024-10-05 22:50:19,589:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_NOAA21_NRT_20241005_225018.db' olarak kaydedildi.
+2024-10-05 22:50:19,857:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-10-05 22:50:19,860:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_SNPP_NRT_20241005_225018.csv' olarak kaydedildi.
+2024-10-05 22:50:19,861:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_SNPP_NRT_20241005_225018.json' olarak kaydedildi.
+2024-10-05 22:50:19,869:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_VIIRS_SNPP_NRT_20241005_225018.db' olarak kaydedildi.
+2024-10-05 22:50:20,222:INFO:'./available_satellites.txt' dosyası zaten güncel, kaydetmeye gerek yok.
+2024-10-05 22:50:20,375:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
