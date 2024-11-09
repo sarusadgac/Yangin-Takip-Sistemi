@@ -27917,3 +27917,17 @@
 2024-11-09 09:16:21,254:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_fire_data.db' olarak eklendi.
 2024-11-09 09:16:21,483:INFO:'./available_satellites.txt' dosyası zaten güncel, kaydetmeye gerek yok.
 2024-11-09 09:16:21,645:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
+2024-11-09 09:28:50,443:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-11-09 09:28:50,446:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA20_NRT.csv' olarak güncellendi.
+2024-11-09 09:28:50,447:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA20_NRT.json' olarak güncellendi.
+2024-11-09 09:28:50,535:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_fire_data.db' olarak eklendi.
+2024-11-09 09:28:50,883:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-11-09 09:28:50,886:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_NOAA21_NRT.csv' olarak güncellendi.
+2024-11-09 09:28:50,886:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_NOAA21_NRT.json' olarak güncellendi.
+2024-11-09 09:28:50,889:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_fire_data.db' olarak eklendi.
+2024-11-09 09:28:51,211:INFO:API yanıtı: Status Code: 200, Content: country_id,latitude,longitude,bright_ti4,scan,track,acq_date,acq_time,satellite,instrument,confidenc
+2024-11-09 09:28:51,214:INFO:Veriler CSV formatında 'csv_data/TUR_VIIRS_SNPP_NRT.csv' olarak güncellendi.
+2024-11-09 09:28:51,214:INFO:Veriler JSON formatında 'json_data/TUR_VIIRS_SNPP_NRT.json' olarak güncellendi.
+2024-11-09 09:28:51,216:INFO:Veriler SQLite veritabanına 'sqlite_data/TUR_fire_data.db' olarak eklendi.
+2024-11-09 09:28:51,619:INFO:'./available_satellites.txt' dosyası zaten güncel, kaydetmeye gerek yok.
+2024-11-09 09:28:52,059:INFO:'./country_codes.txt' dosyası zaten güncel, kaydetmeye gerek yok.
